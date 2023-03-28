@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Artiom/Documents/GitHub/WaterShaderUnreal/WaterShaderUnreal/Content/StarterContent/Materials/WaterSHader.uasset",
+				"C:/Users/Artiom/Documents/GitHub/WaterShaderUnreal/WaterShaderUnreal/Content/StarterContent/Textures/water_new_height.uasset",
+				"C:/Users/Artiom/Documents/GitHub/WaterShaderUnreal/WaterShaderUnreal/Content/StarterContent/Materials/WaterSHader_Inst.uasset",
 				"C:/Users/Artiom/Documents/Unreal Projects/WaterShaderUnreal/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
